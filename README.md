@@ -20,7 +20,7 @@ Live net metamask
 
 Ganache
 
-1. Télécharger Ganache, node, metamask, git
+1. Télécharger git, node, ganache metamask
 
 2. npm init, npm install, npm install ethereum/web3.js --save 
 
