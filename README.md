@@ -1,4 +1,4 @@
-ÉTapes:
+Étapes:
 
 Git Clone
 Ganache Start
