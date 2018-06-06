@@ -1,12 +1,19 @@
 Étapes:
 
 Git Clone
+
 Ganache Start
+
 Écrire contrat
+
 Écrire JS
+
 npm install
+
 npm install lite-server
+
 Ropsten metamask
+
 Live net metamask
 
 Étapes détaillées:
