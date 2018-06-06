@@ -20,15 +20,15 @@ Live net metamask
 
 Ganache
 
-1. Télécharger git, node, ganache, metamask
+1. Télécharger git, node, ganache (pour mac ouvrir mac.zip dans le petit lien en bas pour yosemite), metamask
 
-2. npm init, npm install, npm install ethereum/web3.js --save 
+2. git clone https://github.com/AkaashMukherjee/Workshop
 
-3. git clone https://github.com/AkaashMukherjee/Workshop
+3. npm init, npm install, npm install ethereum/web3.js --save 
 
 4. Démarrer ganache
 
-5. Brancher remix à Ganache (Web 3 Provider)
+5. Brancher remix à Ganache (Web 3 Provider) (https://remix.ethereum.org)
 
 6. Écrire contrat
 
