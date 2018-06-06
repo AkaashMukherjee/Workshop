@@ -1,7 +1,7 @@
 Ganache
 
-1.Télécharger Ganache, node, metamask
-2. npm init, npm install, npm install ethereum/web3.js --save
+1.Télécharger Ganache, node, metamask, git
+2. npm init, npm install, npm install ethereum/web3.js --save, git clone du Workshop
 3. Démarrer ganache
 4. Brancher remix à Ganache (Web 3 Provider)
 5. Écrire contrat
