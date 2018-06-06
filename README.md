@@ -1,12 +1,20 @@
-1.Télécharger Ganache, node, metamask
-2. npm init, npm install, npm install ethereum/web3.js --save
-2. Démarrer ganache
-3. Brancher remix à Ganache (Web 3 Provider)
-4. Écrire contrat
-5. Créer/écrire HTML/CSS
-6. Créer/Écrire JS
-7. Copier ABI de remix, coller dans JS
-8. Copier id du contrat de remix coller dans JS
+1.TÃ©lÃ©charger Ganache, node, metamask
+
+3. npm init, npm install, npm install ethereum/web3.js --save
+
+4. DÃ©marrer ganache
+
+5. Brancher remix Ã  Ganache (Web 3 Provider)
+
+6. Ã‰crire contrat
+
+7. CrÃ©er/Ã©crire HTML/CSS
+
+8. CrÃ©er/Ã‰crire JS
+
+9. Copier ABI de remix, coller dans JS
+
+10. Copier id du contrat de remix coller dans JS
 
 
 Ropsten
