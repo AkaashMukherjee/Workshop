@@ -73,8 +73,8 @@ lite-server (ouvrir dans chrome, c'est important!!)
 
 MAIN NETWORK
 
-passer au main network dans metamask,
-
 deployer contract dans remix (injected web3)
 
 changer contract address dans le fichier JS (0xa441717F3EfaFEb84F7A46A5eFc45980CB08e59d)
+
+passer au main network dans metamask
