@@ -44,17 +44,26 @@ Ganache
 Ropsten
 
 1.Télécharger metamask
-2. npm install lite-server --save-dev ("dev": "lite-server") npm install -g lite-server
+
+2. npm install -g lite-server
+
 3. lite-server (ouvrir sur chrome!!)
+
 4. sur remix se connecter au injected web3 through metamask
+
 5. Créer compte sur metamask (si on voit pas le compte re-import le compte avec le pk)
+
 6. Demander tokens sur Faucet (assure toi de request de faucet!!!)
+
 7. Deployer smart contract
+
 8. changer contract address en JS 
 
 
 Main network
 
 1. changer au main network dans metamask, 
+
 2. deployer contract dans remix (injected web3)
+
 3. changer contract address en JS
