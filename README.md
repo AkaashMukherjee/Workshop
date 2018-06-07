@@ -78,4 +78,4 @@ passer au main network dans metamask,
 
 deployer contract dans remix (injected web3)
 
-changer contract address dans le fichier JS (0x286c4547cA27C8f5042D1A83dED60c2ed78fc795)
+changer contract address dans le fichier JS (0xa441717F3EfaFEb84F7A46A5eFc45980CB08e59d)
