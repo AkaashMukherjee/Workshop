@@ -6,10 +6,10 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
       <title>Document</title>
-
       <link rel="stylesheet" type="text/css" href="main.css">
-      <script src="./node_modules/web3/dist/web3.min.js"></script>
-      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+	  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="./node_modules/web3/dist/web3.min.js"></script>
+	  <script src="./index.js"></script>
   </head>
 
   <body>
@@ -20,16 +20,12 @@
 
           <label for="name" class="col-lg-2 control-label">Name</label>
           <input id="name" type="text">
+          
           <label for="name" class="col-lg-2 control-label">Age</label>
           <input id="age" type="text">
 
-          <button id="button">Update</button>
-          <button id="button2">Get</button>
+          <button id="button" onclick = "setPerson()">Update</button>
+          <button id="button2" onclick = "updatePerson()">Get</button>
       </div>
   </body>
-
-  <script>
-
-  </script>
-
 </html>
