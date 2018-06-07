@@ -1,5 +1,10 @@
 # Workshop
-Atelier pour Cocktail&amp;Code
+
+--------------------------
+
+ATELIER POUR COCKTAIL&amp;CODE
+
+-----------------------------------
 
 ÉTAPES
 
