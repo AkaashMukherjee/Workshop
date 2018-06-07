@@ -16,9 +16,10 @@ Ropsten metamask
 
 Live net metamask
 
+
 Étapes détaillées:
 
-Ganache
+Ganache (réseau virtuel, local, permet de développer rapidement)
 
 1. Télécharger git, node, ganache (pour mac ouvrir mac.zip pour yosemite, exe pour windows, dans les 2 cas faut cliquer sur le petit lien en bas, pas le gros boutton install)
 
@@ -41,7 +42,7 @@ Ganache
 10. Copier id du contrat de remix coller dans JS
 
 
-Ropsten
+Ropsten (simule main network sans payer)
 
 1.Télécharger metamask
 
