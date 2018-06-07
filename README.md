@@ -31,7 +31,7 @@ Ganache (réseau virtuel, local, permet de développer rapidement)
 
 5. Brancher remix à Ganache (Web 3 Provider) (https://remix.ethereum.org)
 
-6. Écrire contrat
+6. Écrire contrat dans remix, assurez-vous que le contrat que vous déployez s'appelle Workshop, actualiser la page pour vérifier
 
 7. Créer/écrire HTML/CSS
 
