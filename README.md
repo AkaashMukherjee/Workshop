@@ -47,7 +47,7 @@ Ropsten
 
 2. npm install -g lite-server
 
-3. lite-server (ouvrir sur chrome!!)
+3. lite-server (ouvrir dans chrome, c'est important!!)
 
 4. sur remix se connecter au injected web3 through metamask
 
