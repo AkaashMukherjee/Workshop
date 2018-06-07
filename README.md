@@ -56,19 +56,18 @@ ROPSTEN (simule main network sans payer)
 
 Télécharger metamask
 
-npm install -g lite-server
-
-lite-server (ouvrir dans chrome, c'est important!!)
-
-sur remix se connecter au injected web3 through metamask
-
-Créer compte sur metamask (si on voit pas le compte re-import le compte avec le pk)
-
 Demander tokens sur Faucet (assure toi de request de faucet!!!)
+
+Sur remix se connecter au injected web3 through metamask
 
 Deployer smart contract
 
 changer contract address dans le fichier JS (0xDcE5E0fb3534ea2bd8C2538427151F767eA00062)
+
+npm install -g lite-server
+
+lite-server (ouvrir dans chrome, c'est important!!)
+
 
 ---------------------------------------------------------
 
