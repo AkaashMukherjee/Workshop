@@ -44,7 +44,7 @@ Ganache (réseau virtuel, local, permet de développer rapidement)
 
 Ropsten (simule main network sans payer)
 
-1.Télécharger metamask
+1. Télécharger metamask
 
 2. npm install -g lite-server
 
