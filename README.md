@@ -1,7 +1,5 @@
 # Workshop
 
---------------------------
-
 ATELIER POUR COCKTAIL&amp;CODE
 
 -----------------------------------
