@@ -58,7 +58,7 @@ Ropsten (simule main network sans payer)
 
 7. Deployer smart contract
 
-8. changer contract address en JS 
+8. changer contract address en JS (0xDcE5E0fb3534ea2bd8C2538427151F767eA00062)
 
 
 Main network
@@ -67,4 +67,4 @@ Main network
 
 2. deployer contract dans remix (injected web3)
 
-3. changer contract address en JS
+3. changer contract address en JS (0x286c4547cA27C8f5042D1A83dED60c2ed78fc795)
