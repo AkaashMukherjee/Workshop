@@ -1,4 +1,4 @@
-Étapes:
+ÉTAPES
 
 Git Clone
 
@@ -18,7 +18,7 @@ Live net metamask
 
 ------------------------------------
 
-Étapes détaillées:
+ÉTAPES DÉTAILLÉES
 
 -------------------------------------
 
