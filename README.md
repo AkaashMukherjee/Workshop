@@ -20,7 +20,7 @@ Live net metamask
 
 Ganache
 
-1. Télécharger git, node, ganache (pour mac ouvrir mac.zip dans le petit lien en bas pour yosemite, exe pour windows), metamask
+1. Télécharger git, node, ganache (pour mac ouvrir mac.zip dans le petit lien en bas pour yosemite, exe pour windows)
 
 2. git clone https://github.com/AkaashMukherjee/Workshop
 
@@ -43,13 +43,14 @@ Ganache
 
 Ropsten
 
-1. npm install lite-server --save-dev ("dev": "lite-server") npm install -g lite-server
-2. lite-server (ouvrir sur chrome!!)
-3. sur remix se connecter au injected web3 through metamask
-4. Créer compte sur metamask (si on voit pas le compte re-import le compte avec le pk)
-5. Demander tokens sur Faucet (assure toi de request de faucet!!!)
-6. Deployer smart contract
-7. changer contract address en JS 
+1.Télécharger metamask
+2. npm install lite-server --save-dev ("dev": "lite-server") npm install -g lite-server
+3. lite-server (ouvrir sur chrome!!)
+4. sur remix se connecter au injected web3 through metamask
+5. Créer compte sur metamask (si on voit pas le compte re-import le compte avec le pk)
+6. Demander tokens sur Faucet (assure toi de request de faucet!!!)
+7. Deployer smart contract
+8. changer contract address en JS 
 
 
 Main network
