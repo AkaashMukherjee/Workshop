@@ -20,7 +20,7 @@ Live net metamask
 
 Ganache
 
-1. Télécharger git, node, ganache (pour mac ouvrir mac.zip dans le petit lien en bas pour yosemite, exe pour windows)
+1. Télécharger git, node, ganache (pour mac ouvrir mac.zip pour yosemite, exe pour windows, dans les 2 cas faut cliquer sur le petit lien en bas, pas le gros boutton install)
 
 2. git clone https://github.com/AkaashMukherjee/Workshop
 
