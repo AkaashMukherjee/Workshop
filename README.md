@@ -16,11 +16,13 @@ Ropsten metamask
 
 Live net metamask
 
+------------------------------------
 
 Étapes détaillées:
 
+-------------------------------------
 
-Ganache (réseau virtuel, local, permet de développer rapidement)
+GANACHE (réseau virtuel, local, permet de développer rapidement)
 
 Télécharger git, node, ganache (pour mac ouvrir mac.zip pour yosemite, exe pour windows, dans les 2 cas faut cliquer sur le petit lien en bas, pas le gros boutton install)
 
@@ -42,9 +44,9 @@ Copier ABI de remix, coller dans JS
 
 Copier id du contrat de remix coller dans JS
 
+-------------------------------------------------
 
-Ropsten (simule main network sans payer)
-
+ROPSTEN (simule main network sans payer)
 
 Télécharger metamask
 
@@ -62,8 +64,9 @@ Deployer smart contract
 
 changer contract address en JS (0xDcE5E0fb3534ea2bd8C2538427151F767eA00062)
 
+---------------------------------------------------------
 
-Main network
+MAIN NETWORK
 
 passer au main network dans metamask,
 
