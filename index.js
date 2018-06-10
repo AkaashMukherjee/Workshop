@@ -41,9 +41,8 @@ if(typeof web3 !== "undefined") {
 	web3 = new Web3(web3.currentProvider);
 } else {
 	web3 = new Web3(new Web3.providers.HttpProvider("http://localhost:7545"))
+	web3.eth.defaultAccount = web3.eth.accounts[0]
 }
-
-web3.eth.defaultAccount = web3.eth.accounts[0]
 
 var WorkshopContract = web3.eth.contract(abi)
 var contractAddress = "0xae41e58c43736629edee3d854cf3790aaf13fdc0"
